@@ -1,4 +1,4 @@
-# WAP Wild Apricot iFrame Add On
+# WAP Wild Apricot iFrame Add-On
 
 This plugin installs a Gutenberg block which allows the user to include an iFrame with a Wild Apricot widget.
 
